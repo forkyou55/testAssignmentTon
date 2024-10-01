@@ -1,6 +1,7 @@
 {
   "name": "ton",
   "version": "1.0.0",
+  "type": "module",
   "scripts": {
     "allureGenerate": "allure generate --clean",
     "allureOpen": "allure open",
